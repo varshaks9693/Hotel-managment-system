@@ -1,5 +1,6 @@
 body{
     background-color: aqua;
+    background-image: url(h4.jpg);
 }
 
 #nav{
@@ -43,6 +44,6 @@ input{
 footer{
     font-size: 40px;
     color:purple;
-    font-weight: bold;
+    font-weight: boldgit ;
     text-decoration: underline;
 }
