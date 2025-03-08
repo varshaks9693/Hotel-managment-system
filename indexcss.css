@@ -1,6 +1,7 @@
 body{
     background-color: aqua;
     background-image: url(h4.jpg);
+    background-size: cover;
 }
 
 #nav{
