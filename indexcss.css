@@ -26,8 +26,8 @@ input{
 }
 
 #logo{
-    height: 30px;
-    width: 30px;
+    height: 40px;
+    width: 40px;
     margin-left: 350px;
 }
 
@@ -45,6 +45,9 @@ input{
 footer{
     font-size: 40px;
     color:purple;
-    font-weight: boldgit ;
+    font-weight: bold ;
+    text-decoration: underline;
+    background-color: white;
+    margin-top: 1rem;
     text-decoration: underline;
 }
